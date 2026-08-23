@@ -1,0 +1,4 @@
+customtkinter
+mysql-connector-python
+reportlab
+Pillow
